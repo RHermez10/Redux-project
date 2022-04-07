@@ -1,15 +1,27 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {createStore} from 'redux';
+import reducers from "./reducers/index";
+import {Provider} from "react-redux";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+
+
+//Skapar en store där jag skickar in mina reducers som ligger i en function. Så min store uppdateras varje gång jag dispatchar en action.
+const store =createStore(reducers,
+  {},
+  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
+
+
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render( 
+  <Provider store={store}>
+     <App/>
+  </Provider>
+)
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

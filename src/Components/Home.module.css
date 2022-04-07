@@ -1,0 +1,27 @@
+.title {
+    font-family: 'Teko',
+        sans-serif;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.p {
+
+    font-family: 'PT Sans Narrow',
+        sans-serif;
+    font-size: 29px;
+    font-style: italic;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.arrow {
+    margin-top: 4rem;
+    margin-left: 19rem;
+}
+
+.bottle {
+    width: 34%;
+    margin-left: 8rem;
+}

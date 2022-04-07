@@ -1,0 +1,40 @@
+.rubrik {
+    font-size: 43px;
+    font-family: 'Teko',
+        sans-serif;
+    text-align: center;
+}
+
+.heart {
+    margin-left: 20rem;
+}
+
+.product {
+    background-color: #ecd94f;
+    text-align: center;
+    border-radius: 23px;
+    margin: 88px;
+    font-family: 'PT Sans Narrow',
+        sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+
+}
+
+.img {
+    width: 55px;
+    margin-top: -5rem;
+}
+
+.moreBtn {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow',
+        sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+}

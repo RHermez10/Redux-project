@@ -1,0 +1,51 @@
+.wrapper {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    background-color: #000000d1;
+    padding: -3rem;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 0px 8px 30px 8px;
+    color: white;
+}
+
+.img {
+    width: 40px;
+}
+
+.text {
+    font-family: 'PT Sans Narrow',
+        sans-serif;
+    font-size: 25px;
+}
+
+.title {
+    font-size: 43px;
+    font-family: 'Teko',
+        sans-serif;
+    text-align: center;
+}
+
+.btn {
+    background-color: white;
+    font-family: 'PT Sans Narrow',
+        sans-serif;
+    border: 2px solid black;
+    padding: 5px 18px 5px 18px;
+    font-weight: bolder;
+    margin-left: 19rem;
+    margin-top: 9px;
+    font-size: 20px;
+}
+
+.removeBtn {
+    background-color: white;
+    font-family: 'PT Sans Narrow',
+        sans-serif;
+    border: 2px solid #ecd94f;
+    padding: 5px 18px 5px 18px;
+    font-weight: bolder;
+    font-size: 20px;
+    text-transform: uppercase;
+}
