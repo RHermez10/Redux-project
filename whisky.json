@@ -1,0 +1,91 @@
+[{
+        "id": 0,
+        "name": "Black Label",
+        "text": "Sweetness wrapped in smoke",
+        "country": "UK, Scottland",
+        "img": "https://product-cdn.systembolaget.se/productimages/292050/292050_800.png",
+        "description": "Johnnie Walker Black Label is one of life’s true icons. A masterful blend of single malt and grain whiskies from across Scotland, aged for at least 12 years. The result is a timeless classic with depth and balance of flavor. Drink it with ice, neat or in a Highball.",
+        "volume": "40%"
+    }, {
+        "id": 1,
+        "name": "Jack Daniels",
+        "text": "Charcoal mellowed drop by drop",
+        "country": "USA, Tennessee",
+        "img": "https://product-cdn.systembolaget.se/productimages/40608/40608_800.png",
+        "description": "Mellowed drop by drop through 10-feet of sugar maple charcoal, then matured in handcrafted barrels of our own making. And our Tennessee Whiskey doesn’t follow a calendar. It’s only ready when our tasters say it is. We judge it by the way it looks. By its aroma. And of course, by the way it tastes. It’s how Jack Daniel himself did it over a century ago. And how we still do it today.",
+        "volume": "40%"
+    },
+    {
+        "id": 2,
+        "name": "Jim Beam",
+        "text": "Damn good bourbon",
+        "country": "USA, Kentucky",
+        "img": "https://product-cdn.systembolaget.se/productimages/430/430_800.png",
+        "description": "Elegant. Smooth. Refined. That’s what 4 years of aging in newly charred American white oak barrels does to our bourbon. But every drop is worth the effort, and we love the idea of sticking to our great-great-grandfather’s recipe.",
+        "volume": "40%"
+    },
+    {
+        "id": 3,
+        "name": "Jameson",
+        "text": "Triple distilled, twice as smooth, one of a kind",
+        "country": "Ireland",
+        "img": "https://product-cdn.systembolaget.se/productimages/417/417_800.png",
+        "description": "​Established on Dublin’s Bow Street in 1780, John Jameson set about creating the world’s most loved Irish whiskey. For the next 200 years there was always a descendant of John Jameson working for the company, with each generation building on the success of the last.",
+        "volume": "40%"
+
+    },
+    {
+        "id": 4,
+        "name": "Lagavulin",
+        "text": "16 year old single malt",
+        "country": "UK",
+        "img": "https://product-cdn.systembolaget.se/productimages/7506/7506_800.png",
+        "description": "Revered by connoisseurs and experts, Lagavulin is known as “the king of Islay”. It is an 'essential' Scotch Whisky that any connoisseur or enthusiast must have in their collection; one of the world's favourite Malt Whiskies.",
+        "volume": "43%"
+    },
+    {
+        "id": 5,
+        "name": "Benriach",
+        "text": "Core Range",
+        "country": "UK, Scottland",
+        "img": "https://product-cdn.systembolaget.se/productimages/24604676/24604676_800.png",
+        "description": "A Speyside single malt Scotch Whisky as intriguing and extraordinary as Benriach could not have come to be without a unique whisky making heritage, dating from 1898, when founder John Duff built his distillery. Ruggedly beautiful, Benriach stands on the site of the old Riach farm in north Speyside, drawing water from the mineral-rich aquifer deep beneath the distillery.",
+        "volume": "52,8%"
+    },
+    {
+        "id": 6,
+        "name": "Edradour",
+        "text": "The classic Range",
+        "country": "UK, Scottland",
+        "img": "https://product-cdn.systembolaget.se/productimages/24658209/24658209_800.png",
+        "description": "The ten year old Edradour is handmade and one of the last Single Malt Whiskies from a traditional farm distillery still in production today. The methods of production remain virtually unchanged in the last 150 years and are only just capable of commercial quantities. Indeed Edradour Distillery makes as much whisky in a year as most distilleries produce in a week. A rare pleasure for a fortunate few.",
+        "volume": "40%"
+    },
+    {
+        "id": 7,
+        "name": "Highland Park",
+        "text": "Old viking honour",
+        "country": "UK",
+        "img": "https://product-cdn.systembolaget.se/productimages/40554/40554_800.png",
+        "description": "Our iconic 12 Year Old single malt whisky is spicy and well-rounded, packed with the flavours of sun-kissed Seville oranges and rich fruitcake spiced with cinnamon, nutmeg and cloves; you’ll find molten heather honey in this whisky’s waves of heathery peat smoke.",
+        "volume": "40%"
+    },
+    {
+        "id": 8,
+        "name": "Grant's",
+        "text": "For a smoother taste",
+        "country": "UK, Scottland",
+        "img": "https://product-cdn.systembolaget.se/productimages/369/369_800.png",
+        "description": "Many whiskies take their flavour from just one cask, but we mature Grant’s Triple Wood in three different types of wood: Virgin Oak cask provides spicy robustness, American Oak lends subtle vanilla smoothness and Bourbon refill offers brown sugar sweetness, resulting in a smoother, richer, mellower taste. Formerly Family Reserve.",
+        "volume": "40%"
+    },
+    {
+        "id": 9,
+        "name": "Ardbeg",
+        "text": "Ten years old",
+        "country": "UK, Scottland",
+        "img": "https://product-cdn.systembolaget.se/productimages/32970/32970_400.png",
+        "description": "Ardbeg Ten Years Old is revered around the world as the peatiest, smokiest, most complex single malt of them all. Yet it does not flaunt the peat; rather it gives way to the natural sweetness of the malt to produce a whisky of perfect balance. Named World Whisky of the Year in 2008.",
+        "volume": "46%"
+    }
+]
